@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Tharusha Themiya, an undergraduate at the University of Moratuwa, currently pursuing a BSc (Hons) in Artificial Intelligence.
 <!--
 **TT-07/TT-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
