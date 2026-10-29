@@ -63,16 +63,16 @@
 <!-- These cards auto-update based on your public activity -->
 <p align="center">
   <a href="https://github.com/TT-07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TT-07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.shion.dev/api?username=TT-07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/TT-07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TT-07&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+    <img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TT-07&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   </a>
 </p>
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TT-07&theme=radical" alt="GitHub Streak" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=TT-07&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <!-- Footer Wave -->
